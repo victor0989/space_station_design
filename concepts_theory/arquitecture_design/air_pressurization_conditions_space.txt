@@ -1,0 +1,8 @@
+Internal Air Pressurization. The lunar structure will have to be a
+ life-supporting, closed environment consisting of a volume with an internal pres
+sure of 6.9 × 104 to 10.3 × 104 Pa. The enclosure structure must contain this
+ pressure, and must be designed to be “fail-safe” against catastrophic and other
+ decompression caused by accidental and natural impacts. Internal pressurization
+ offers challenges to all lunar structures, but especially the inflatable concept.
+ Placing inflatables inside lava tubes or under large concrete arch structures would
+ eliminate many associated risks.
