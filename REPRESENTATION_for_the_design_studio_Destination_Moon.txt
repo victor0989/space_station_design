@@ -1,0 +1,51 @@
+Table 2.8 Evaluation themes for the criteria REPRESENTATION for the design studio "Destination Moon" (Marc M. Cohen)
+
+SPACE ARCHITECTURE ELEMENTS
+--------------------------------------------
+
+Subtheme             | Explanation
+-------------------|---------------------------------------------------------------
+Multiple access       | Multiple accesses reflect a design that provides two or more
+                               means of entry to important areas, rooms, or spaces.
+                               There are many functional and safety reasons for why
+                               multiple accesses can be an asset.
+Dual remote egress | Two or more remotely separated exits from a given room
+                               or volume is a hallmark of the earliest life safety and fire
+                               codes on Earth. It deserves equal or greater attention in
+                               a space habitat.
+Multiple circulation  | A circulation loop refers to a means of perambulating or
+loops                         translating around a space habitat or base. Multiple routes
+                               or loops would be beneficial for flexible and varying uses.
+Public space            | In a space habitat with five to six or more crewmembers,
+                               there will be common living, gathering, and circulation
+                               areas in addition to shared workspaces. Common living
+                               spaces include the wardroom, galley, exercise, and
+                               entertainment areas.
+Vertical circulation   | Nearly all the projects incorporate high ceilings or multiple
+                               levels in the habitat. The ways in which the crew can
+                               access these parts of the total volume serves as an
+                               important functional element. 
+Private quarters       | Providing a private living space and sleep quarter stands as
+                               one of the most widely recognized requirements since
+                               Raymond Loewy’s design for the Skylab sleep quarters.
+Work or lab area       | Most crewmembers will go to the space habitat or base to
+                               work, doing engineering, research, science, or technology
+                               development. They will need suitable accommodations to
+                               perform these tasks.
+Plant Growth Area     | Self-sufficiency in food will emerge as a vital capability to
+                               sustain human space settlements. In addition, the partial G
+                               environment presents opportunities for agricultural research.
+Life support               | Life support is a sine qua non of a space habitat. The
+                               issue for the studio Destination Moon is the extent to
+                               which the architects recognize the role of life support
+                               and make some accommodation or indications for it.
+Surface mobility       | The ability to travel safely and in relative comfort over
+                               distances on the lunar surface.
+Use of robotics         | Autonomous, robotic, and teleoperated systems are
+                               already becoming ubiquitous in the space exploration
+                               environment. Surely, these capabilities will act as an
+                               integrated element of the Destination Moon base.
+EVA access airlock | Travel on foot to explore and work will remain essential
+                               for nearly all EVA activities on the Moon. Therefore
+                               the space habitat should include some type of airlock
+                               provisions.
