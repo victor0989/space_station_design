@@ -48,24 +48,24 @@ The Parker Solar Probe uses advanced materials like carbon fiber-reinforced comp
 Aerogel:
 Description: One of the lightest materials in the world, made mostly of carbon, with high thermal and mechanical resistance properties.
 Application: Could be researched as a protective layer or thermal insulator due to its low density and high resistance.
+
 Silicon Carbide (SiC):
-
-Description: A compound of silicon and carbon known for its high hardness, thermal resistance, and low thermal expansion.
+A compound of silicon and carbon known for its high hardness, thermal resistance, and low thermal expansion.
 Application: Used in aerospace applications for components that need to withstand extreme environments, SiC could be crucial for enhancing heat and radiation resistance.
+
 High Entropy Refractories:
-
-Description: Materials with multiple metallic elements that offer unique high-temperature and hardness properties.
+Materials with multiple metallic elements that offer unique high-temperature and hardness properties.
 Application: Can be researched for structures that need to withstand high temperatures in solar expansion scenarios.
+
 Hafnium Tantalate (HfTaC):
-
-Description: With a melting point above 4,000°C, this is one of the most refractory materials known.
+With a melting point above 4,000°C, this is one of the most refractory materials known.
 Application: Ideal for protecting structures exposed to extremely high temperatures, such as those expected near a collapsing star.
-Liquid Metals:
 
+Liquid Metals:
 Description: Some liquid metals have extremely high heat absorption properties.
 Application: Could be used in advanced cooling systems to dissipate the extreme heat inside the capsule.
-Modified Graphene:
 
+Modified Graphene:
 Description: Graphene is known for its high thermal conductivity and mechanical strength. Structural modifications could further enhance these properties.
 Application: Useful for applications requiring high thermal resistance and protection from radiation.
 Future Research:
