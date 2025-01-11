@@ -17,7 +17,6 @@ Long after the Sun's demise and the Andromeda-Milky Way collision, the universe 
 
 # Repository contents are based on spatial arquitecture design sources & software/Hardware across the VHDL scripts   
 
-# space_station_design
 The Space station design involves aerospace engineering theory and specialized software. Key aspects include: 
 Space station design involves ensuring the structure withstands space conditions, predicting potential issues, managing air, water, and food for long-term survival, and developing materials to protect against cosmic radiation.
 
