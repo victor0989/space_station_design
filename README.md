@@ -31,7 +31,45 @@ PlatformIO IDE for VSCode to develop, run and debug a basic blink project with S
 
 # VHDL scripts(Artix 7) VSLI design sources
 
+
 1) HDL scripting
 2) Artix 7 examples
 3) extreme temperatures(FPGA isolation from other sources)
 4) Jupiter radiation(docs)
+
+
+
+# Research into More Resistant Materials Than Those Used in the Parker Solar Probe
+
+The Parker Solar Probe uses advanced materials like carbon fiber-reinforced composites and a carbon foam thermal shield coated with a white reflective layer to withstand extreme temperatures near the Sun. However, for even more extreme scenarios like solar expansion or galactic collision, materials need to offer greater resistance to intense radiation, extreme temperatures, micrometeorites, and gravitational forces.
+
+# Potential Materials for Future Research:
+
+Aerogel:
+Description: One of the lightest materials in the world, made mostly of carbon, with high thermal and mechanical resistance properties.
+Application: Could be researched as a protective layer or thermal insulator due to its low density and high resistance.
+Silicon Carbide (SiC):
+
+Description: A compound of silicon and carbon known for its high hardness, thermal resistance, and low thermal expansion.
+Application: Used in aerospace applications for components that need to withstand extreme environments, SiC could be crucial for enhancing heat and radiation resistance.
+High Entropy Refractories:
+
+Description: Materials with multiple metallic elements that offer unique high-temperature and hardness properties.
+Application: Can be researched for structures that need to withstand high temperatures in solar expansion scenarios.
+Hafnium Tantalate (HfTaC):
+
+Description: With a melting point above 4,000°C, this is one of the most refractory materials known.
+Application: Ideal for protecting structures exposed to extremely high temperatures, such as those expected near a collapsing star.
+Liquid Metals:
+
+Description: Some liquid metals have extremely high heat absorption properties.
+Application: Could be used in advanced cooling systems to dissipate the extreme heat inside the capsule.
+Modified Graphene:
+
+Description: Graphene is known for its high thermal conductivity and mechanical strength. Structural modifications could further enhance these properties.
+Application: Useful for applications requiring high thermal resistance and protection from radiation.
+Future Research:
+
+Nanostructures: Creating new nanostructures based on existing materials, such as carbon or refractory metal nanocomposites, could lead to discoveries of materials with superior mechanical and thermal properties.
+Advanced Simulations: Using computer simulations to predict the behavior of new materials under extreme conditions before bringing them to production.
+Testing in Simulated Environments: Testing these materials in environments that simulate conditions near a collapsing star or during a galactic collision could provide crucial insights for designing future capsules.
