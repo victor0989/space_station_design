@@ -15,12 +15,13 @@ Long after the Sun's demise and the Andromeda-Milky Way collision, the universe 
 
 6. This scenario, while speculative and far in the future, provides a fascinating glimpse into the cosmic fate of our solar system and the universe.
 
+# Repository contents are based on spatial arquitecture design sources & software/Hardware across the VHDL scripts   
+
 # space_station_design
-Brief, artificial content, key resources for aerospace design theory and software creation.
-Space station design involves aerospace engineering theory and specialized software. Key aspects include: 
+The Space station design involves aerospace engineering theory and specialized software. Key aspects include: 
 Space station design involves ensuring the structure withstands space conditions, predicting potential issues, managing air, water, and food for long-term survival, and developing materials to protect against cosmic radiation.
 
-# STM32Cube HAL and Nucleo-F401RE: debugging and unit testing
+# Software/testing/STM32Cube HAL and Nucleo-F401RE: debugging and unit testing
 PlatformIO IDE for VSCode to develop, run and debug a basic blink project with STM32Cube framework for STM32 Nucleo-F401RE board.
 
 1) Adding Code to the Generated Project
