@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------------
+| Characteristic            | Earth                  | Outer Space | Moon           | Mars            |
+|---------------------------|------------------------|-------------|----------------|-----------------|
+| Diameter (km)             | 12,756                 | Not applicable | 3,475          | 6,792           |
+| Period of Revolution (year)| 365 Earth days        | Not applicable | 28 Earth days  | 792 Earth days  |
+|                           |                        |             |                | (26 months)     |
+| Period of Rotation (day)  | 24 h                   | Not applicable | 672 h; 28 days | 24.66 h         |
+| Gravity                   | 9.8 m/s²               | Microgravity  | 1.62 m/s²      | 3.69 m/s²       |
+|                           |                        |             | (1/6 of Earth)  | (1/3 of Earth)  |
+| Mean Surface Temperature  | 15°C                   | Max +200°C  | −20°C          | −65°C           |
+|                           | Max +60°C              | (radiant    | (much colder   | Max −5°C        |
+|                           | Min −89°C              | energy)     | at poles in    | Min −87°C       |
+|                           |                        | Min −270°C  | deep craters)  |                 |
+|                           |                        | (cosmic     | Max +123°C     |                 |
+|                           |                        | background  | Min −233°C     |                 |
+| Length of Day (h)         | 24.0                   | Not applicable | 708.7          | 24.7            |
+| Radiation                 | Natural protection by  | Exposure to | Exposure to    | Atmospheric     |
+|                           | Earth's atmosphere     | Solar       | Solar Particle | pressure gives  |
+|                           | and Van Allen Belt     | Particle    | Events and     | about 30 g/cm²  |
+|                           |                        | Events and  | Galactic Cosmic| equivalent      |
+|                           |                        | Galactic    | Rays; mass of  | protection.     |
+|                           |                        | Cosmic Rays | the surface    | Mass of the     |
+|                           |                        |             | gives “half    | planet gives    |
+|                           |                        |             | protection” but| about “half     |
+|                           |                        |             | the surface    | shielding”.     |
+|                           |                        |             | also generates |                 |
+|                           |                        |             | secondary      |                 |
+|                           |                        |             | thermal        |                 |
+|                           |                        |             | neutrons from  |                 |
+|                           |                        |             | bombardment    |                 |
+| Atmospheric Pressure      | 1 bar (N2, O2)         | 0 bar       | 0 bar (almost  | 0.01 bar        |
+|                           |                        | (vacuum)    | a perfect      |                 |
+|                           |                        |             | vacuum)        |                 |
+| Other Specific            | Extreme bright light   | Extreme     | Extreme bright |                 |
+| Characteristics           | and glare              | bright light| light and glare|                 |
+|                           |                        | and glare   |                |                 |
+---------------------------------------------------------------------------------------
