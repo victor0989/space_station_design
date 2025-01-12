@@ -73,3 +73,6 @@ Future Research:
 Nanostructures: Creating new nanostructures based on existing materials, such as carbon or refractory metal nanocomposites, could lead to discoveries of materials with superior mechanical and thermal properties.
 Advanced Simulations: Using computer simulations to predict the behavior of new materials under extreme conditions before bringing them to production.
 Testing in Simulated Environments: Testing these materials in environments that simulate conditions near a collapsing star or during a galactic collision could provide crucial insights for designing future capsules.
+
+#Simulation/circuits
+Pennylane documentation: https://docs.pennylane.ai/en/stable/introduction/circuits.html
