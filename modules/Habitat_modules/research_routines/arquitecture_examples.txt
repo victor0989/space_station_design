@@ -1,0 +1,7 @@
+| Interaction                | Mediating Particle   | Scale       | Relevance                                                                                 |
+|----------------------------|----------------------|-------------|-------------------------------------------------------------------------------------------|
+| Electromagnetic            | Photon               | All scales  | Responsible for biological, chemical, and mechanical interactions between atoms/molecules |
+| Weak Nuclear               | W and Z bosons       | Atomic      | Relevant to radioactive decay                                                             |
+| Strong Nuclear             | Gluon                | Atomic      | Relevant to atomic fusion and fission                                                     |
+| Gravitational (Newton)     | Hypothetical graviton| All scales  | Describes attractive force proportional to mass and inversely proportional to the square of distance between particles |
+| Gravitational (Einstein)   | Space-time curvature | Large       | Perceived force due to curvature of four-dimensional space-time                           |
