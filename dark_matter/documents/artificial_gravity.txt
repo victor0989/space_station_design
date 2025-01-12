@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------------------------------------
+| Assumptions & Realities        | Details                                                                                          |
+|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Faulty Assumptions            | - Gravity will be Earth-normal if centripetal acceleration is 1 g.                               |
+|                               | - Any rotation will be extremely uncomfortable.                                                  |
+|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Realities                     | - Gravity won't be Earth-normal unless the radius is very large.                                 |
+|                               | - Adaptation period is necessary for artificial gravity, similar to microgravity.                 |
+|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Design Considerations         | - Be mindful of rotation, Coriolis effects, and head rotations.                                  |
+|                               | - Use visual cues to help inhabitants stay oriented.                                             |
+|                               | - Design layout might benefit from indicating the tangential velocity direction.                 |
+|-------------------------------|--------------------------------------------------------------------------------------------------|
+| Module Orientations           | - Axial: Minimizes Coriolis effects but might be less dynamically stable.                        |
+|                               | - Tangential: Recommended for better adaptation despite potential Coriolis effects.              |
+--------------------------------------------------------------------------------------------------------------
