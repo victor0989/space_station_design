@@ -20,6 +20,12 @@ Long after the Sun's demise and the Andromeda-Milky Way collision, the universe 
 The Space station design involves aerospace engineering theory and specialized software. Key aspects include: 
 Space station design involves ensuring the structure withstands space conditions, predicting potential issues, managing air, water, and food for long-term survival, and developing materials to protect against cosmic radiation.
 
+# VHDL companion books recomendations for concept-design projects/motors/avionics/space
+Spanish-books-based-project-concepts: 
+reaction engines and gas turbines (Borja galmés del monte)
+//Stepper motors, motores de reacción y turbinas de gas (Borja galmés del monte)
+https://www.amazon.es/Dise%C3%B1o-b%C3%A1sico-automatismos-el%C3%A9ctricos-CARABANTES/dp/8428321639
+
 # Software/testing/STM32Cube HAL and Nucleo-F401RE: debugging and unit testing
 PlatformIO IDE for VSCode to develop, run and debug a basic blink project with STM32Cube framework for STM32 Nucleo-F401RE board.
 
